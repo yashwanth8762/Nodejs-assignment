@@ -1,0 +1,35 @@
+packages packages are collection of one or more moduels along with package.json file
+
+
+To know the version Of node js
+node -v commond to be used
+
+
+package.json 
+  manages the dependecies
+      expression and irs version
+
+
+npm init used to create create .json files
+
+
+
+to install any package 
+
+npm install packagename --save this commond is used
+
+
+to uninstall the package 
+
+npm uninstall packagename --save
+
+
+
+to list the packages 
+
+npm list is used 
+
+
+to remove unused packages 
+
+npm prune  is used
