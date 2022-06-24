@@ -1,0 +1,5 @@
+The File System module has methods for updating files:
+
+fs.appendFile()
+fs.writeFile()
+The fs.appendFile() method appends the specified content at the end of the specified file:
