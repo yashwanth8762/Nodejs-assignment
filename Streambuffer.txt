@@ -1,0 +1,10 @@
+        request
+client   <=======>  server
+          response
+
+protocols:
+* set of communication rules that two sides agree to use when communicating
+
+ports:
+* a program running on a computer can listen for request sent to paticular port number
+* that's how we root address to nodejs
