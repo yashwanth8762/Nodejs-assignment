@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+</head>
+<body>
+    <h1>Practice Page !!!</h1>
+    <p><%= data.id %></p>
+    <p><%= data.name %></p>
+    <p><%= data.age %></p>
+<form id="contact-form" method="post">
+
+<label for="who">Your id is :</label>
+<input type="text" name="id" value="<%= data.id %>"><br>
+
+<label for="department">Your name</label>
+<input type="text" name="name" value="<%= data.name %>"><br>
+
+<label for="email">Age</label>
+<input type="email" name="age" value="<%= data.name %>">
+
+<input type="submit" name="submit">
+</form>
+
+</body>
+</html>

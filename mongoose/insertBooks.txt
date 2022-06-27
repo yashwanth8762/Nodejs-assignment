@@ -1,0 +1,19 @@
+db.books.insert({
+    title :'Refactoring the DOM',
+    author:'Jow Blow',
+    category:'Technology'
+})
+
+db.books.insert({
+     title :'Learn Coloquial Speech',
+    author:'Susie Q',
+    category:'Humanities'
+
+})
+
+db.books.insert({
+     title :'Study of Brain',
+    author:'Matt G',
+    category:'Health'
+
+})
