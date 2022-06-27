@@ -1,0 +1,11 @@
+// exoress
+// Easy and flexibele routing system
+// integrate with many templating engines
+// contains middle ware frame work
+// 
+
+// Responding to thwe requests 
+// GET - app.get('route',fn)
+// POST - app.post('route'fn)
+// DELETE - app.delete('route'fn)
+
